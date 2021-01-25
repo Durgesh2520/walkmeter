@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451526949484",
+    "project_id": "walkmeter-f7a40",
+    "storage_bucket": "walkmeter-f7a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451526949484:android:a4debbffd82f3ab71ab649",
+        "android_client_info": {
+          "package_name": "com.example.walkmeter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451526949484-0krurlghtt2cesmbra9gmesnmov0lk6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walkmeter_app",
+            "certificate_hash": "eaf0a4c190cb6a201a345f396d6983df6aa67389"
+          }
+        },
+        {
+          "client_id": "451526949484-coo57a7tkc1g32e6mekaf2mb48226qgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClX9v2_ACHctgtQRU2Q5oPPP8gFPExNVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451526949484-coo57a7tkc1g32e6mekaf2mb48226qgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
